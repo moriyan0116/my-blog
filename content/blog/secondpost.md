@@ -1,5 +1,6 @@
 ---
-title: second post
+title: gatsby2日目
+description: blog-themeとnetlify
 ---
 
 ### netlifyに繋いだ
